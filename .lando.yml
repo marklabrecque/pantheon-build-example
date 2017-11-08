@@ -1,0 +1,7 @@
+name: pantheon-build-example
+recipe: pantheon
+config:
+  framework: drupal8
+  env: dev
+  site: pantheon-build-example
+  id: 3c78e84b-f736-4a76-999d-b3497d3d96e7
