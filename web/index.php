@@ -8,7 +8,7 @@
  * See COPYRIGHT.txt and LICENSE.txt files in the "core" directory.
  */
 
- dffff
+This is a thing that should break the build.
 
 use Drupal\Core\DrupalKernel;
 use Symfony\Component\HttpFoundation\Request;
